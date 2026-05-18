@@ -20,6 +20,6 @@ Heuristic-based C++ solution for the Hackathon Squad optimization problem.
 - `input_hs.txt` → sample input dataset
 
 ## Author
-Charvi
-24113033
-IIT Roorkee
+Charvi  
+24113033  
+IIT Roorkee  
